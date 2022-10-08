@@ -4,6 +4,7 @@
 - 👀 I’m interested in Math, SQL, Python and visual projects  
 - 🌱 I’m currently learning  Data analysis with SQL and Python
 - 📫 How to reach me LinkedIn: [@Arash](https://www.linkedin.com/in/arashdeep-singh5)
+- Reach me on [Tableau..](https://public.tableau.com/app/profile/as.122)
 
 <!---
 ArashAnalyst/ArashAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
