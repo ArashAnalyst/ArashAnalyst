@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @ArashAnalyst
 - 👀 I’m interested in Math, SQL, Python and visual projects  
 - 🌱 I’m currently learning  Data analysis with SQL and Python
-- 📫 How to reach me <img alt="https://www.linkedin.com/in/arashdeep-singh5" src="https://img.shields.io/badge/-https://www.linkedin.com/in/arashdeep-singh5-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+- 📫 How to reach me <img alt="https://www.linkedin.com/in/arashdeep-singh5" src="https://img.shields.io/badge/-https://linkedin.com-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 
 <!---
 ArashAnalyst/ArashAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
